@@ -1,4 +1,4 @@
-# Yazılım Geliştirme I — 2026-2027
+# BILB2001 Yazılım Geliştirme I — 2026-2027
 
 **Modern C++20 ile nesneye yönelik programlama ve kendi veri yapılarınız**
 
