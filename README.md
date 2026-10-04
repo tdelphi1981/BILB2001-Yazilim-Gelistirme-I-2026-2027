@@ -14,6 +14,7 @@ Materyaller her hafta eklenir. Her haftanın durumu `haftaNN` etiketiyle sabitle
 |---|---|---|---|---|---|---|---|
 | 1 | C'den C++'a Geçiş | [PDF](ders-notu/Hafta01_Cden_Cppa_Gecis.pdf) | [Slayt](slides/Hafta01_Cden_Cppa_Gecis.pdf) | [Lab](labs/Lab01_Cden_Cppa_Gecis.pdf) | [Özet](cheatsheets/Hafta01_Cden_Cppa_Gecis.pdf) | [Quiz](quizzes/Hafta01_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta01) |
 | 2 | Fonksiyonlar ve Bellek Modeli | [PDF](ders-notu/Hafta02_Fonksiyonlar_ve_Bellek_Modeli.pdf) | [Slayt](slides/Hafta02_Fonksiyonlar_ve_Bellek_Modeli.pdf) | [Lab](labs/Lab02_Fonksiyonlar_ve_Bellek_Modeli.pdf) | [Özet](cheatsheets/Hafta02_Fonksiyonlar_ve_Bellek_Modeli.pdf) | [Quiz](quizzes/Hafta02_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta02) |
+| 3 | Sınıflar: Kapsülleme ve Kitap Sınıfı | [PDF](ders-notu/Hafta03_Siniflar.pdf) | [Slayt](slides/Hafta03_Siniflar.pdf) | [Lab](labs/Lab03_Siniflar.pdf) | [Özet](cheatsheets/Hafta03_Siniflar.pdf) | [Quiz](quizzes/Hafta03_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta03) |
 
 ## Klasörler
 
