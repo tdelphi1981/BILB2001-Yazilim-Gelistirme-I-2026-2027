@@ -17,6 +17,7 @@ Materyaller her hafta eklenir. Her haftanın ilk yayımlandığı hâl `haftaNN`
 | 3 | Sınıflar: Kapsülleme ve Kitap Sınıfı | [PDF](ders-notu/Hafta03_Siniflar.pdf) | [Slayt](slides/Hafta03_Siniflar.pdf) | [Lab](labs/Lab03_Siniflar.pdf) | [Özet](cheatsheets/Hafta03_Siniflar.pdf) | [Quiz](quizzes/Hafta03_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta03) |
 | 4 | Kaynak Yönetimi ve Akıllı İşaretçiler | [PDF](ders-notu/Hafta04_Kaynak_Yonetimi_ve_Akilli_Isaretciler.pdf) | [Slayt](slides/Hafta04_Kaynak_Yonetimi_ve_Akilli_Isaretciler.pdf) | [Lab](labs/Lab04_Kaynak_Yonetimi_ve_Akilli_Isaretciler.pdf) | [Özet](cheatsheets/Hafta04_Kaynak_Yonetimi_ve_Akilli_Isaretciler.pdf) | [Quiz](quizzes/Hafta04_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta04) |
 | 5 | Operatör Yükleme | [PDF](ders-notu/Hafta05_Operator_Yukleme.pdf) | [Slayt](slides/Hafta05_Operator_Yukleme.pdf) | [Lab](labs/Lab05_Operator_Yukleme.pdf) | [Özet](cheatsheets/Hafta05_Operator_Yukleme.pdf) | [Quiz](quizzes/Hafta05_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta05) |
+| 6 | Kalıtım ve Kompozisyon | [PDF](ders-notu/Hafta06_Kalitim_ve_Kompozisyon.pdf) | [Slayt](slides/Hafta06_Kalitim_ve_Kompozisyon.pdf) | [Lab](labs/Lab06_Kalitim_ve_Kompozisyon.pdf) | [Özet](cheatsheets/Hafta06_Kalitim_ve_Kompozisyon.pdf) | [Quiz](quizzes/Hafta06_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta06) |
 
 ## Klasörler
 
